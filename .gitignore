@@ -9,3 +9,4 @@ _reports/*
 ehthumbs.db
 Thumbs.db
 .vscode
+package-lock.json
